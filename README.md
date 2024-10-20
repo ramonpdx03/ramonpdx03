@@ -12,7 +12,7 @@
 #
 
 <div align="right">
-  <img align="left" width="33%" src="https://i1.sndcdn.com/artworks-000454973544-3kk23u-t500x500.jpg"/>
+  <img align="left" width="30%" src="https://i1.sndcdn.com/artworks-000454973544-3kk23u-t500x500.jpg"/>
   <table width="66%">
     <tr>
       <th align="center" width="33%">My skills 😎</th>
