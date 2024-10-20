@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋</h1>
 <div>
-  <img align="right" height="200px" src="https://i.imgur.com/DV84yp3.png"/>
+  <img align="right" height="180px" src="https://i.imgur.com/DV84yp3.png"/>
   <h3>Let me introduce myself 😁</h3>
   ✦ My name is <b>Ramon</b></br>
   ✦ <b>21</b>yo - <b>Brazil, SC</b></br>
