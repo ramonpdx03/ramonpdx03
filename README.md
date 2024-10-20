@@ -13,19 +13,19 @@
 
 <div align="right">
   <img align="left" width="33%" src="https://i1.sndcdn.com/artworks-000454973544-3kk23u-t500x500.jpg"/>
-  <table width="70%">
+  <table width="66%">
     <tr>
-      <th align="center" width="35%">My skills 😎</th>
-      <th width="35%">Mostly used languages 🏆</th>
+      <th align="center" width="33%">My skills 😎</th>
+      <th width="33%">Mostly used languages 🏆</th>
     </tr>
     <tr>
-      <td align="center" width="35%">
+      <td align="center" width="33%">
         <img src="https://skillicons.dev/icons?i=js,react,vue,laravel"/></br>
         <img src="https://skillicons.dev/icons?i=figma,tailwind,sass"/></br>
         <img src="https://skillicons.dev/icons?i=mysql,graphql,mongodb,firebase"/></br>
         <img src="https://skillicons.dev/icons?i=git,nodejs,express"/></br>
       </td>
-      <td width="35%">
+      <td width="33%">
         <a href='https://github.com/ramonpdx03'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonpdx03&langs_count=6&theme=transparent&hide_title=true&hide_border=false"/></a>
       </td>
     </tr>
