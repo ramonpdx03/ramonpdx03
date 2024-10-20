@@ -12,11 +12,22 @@
 #
 
 <div align="right">
-  <h3>My skills 😎</h3>
-  <div width="200px">
-    <img src="https://skillicons.dev/icons?i=js,react,vue,laravel"/></br>
-    <img src="https://skillicons.dev/icons?i=figma,tailwind,sass"/></br>
-    <img src="https://skillicons.dev/icons?i=mysql,graphql,mongodb,firebase"/></br>
-    <img src="https://skillicons.dev/icons?i=git,nodejs,express"/></br>
-  </div>
+  <img align="left" width="28%" src="https://i1.sndcdn.com/artworks-000454973544-3kk23u-t500x500.jpg"/>
+  <table width="70%">
+    <tr>
+      <th align="center" width="35%">My skills 😎</th>
+      <th width="35%">Mostly used languages 🏆</th>
+    </tr>
+    <tr>
+      <td align="center" width="35%">
+        <img src="https://skillicons.dev/icons?i=js,react,vue,laravel"/></br>
+        <img src="https://skillicons.dev/icons?i=figma,tailwind,sass"/></br>
+        <img src="https://skillicons.dev/icons?i=mysql,graphql,mongodb,firebase"/></br>
+        <img src="https://skillicons.dev/icons?i=git,nodejs,express"/></br>
+      </td>
+      <td width="35%">
+        <a href='https://github.com/ramonpdx03'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonpdx03&langs_count=6&theme=transparent&hide_title=true&hide_border=false"/></a>
+      </td>
+    </tr>
+  </table>
 </div>
