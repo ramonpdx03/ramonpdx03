@@ -15,7 +15,7 @@
   <img align="left" width="30%" src="https://i1.sndcdn.com/artworks-000454973544-3kk23u-t500x500.jpg"/>
   <table width="66%">
     <tr>
-      <th align="center" width="33%">My skills 😎</th>
+      <th align="center" width="33%">My main skills 😎</th>
       <th width="33%">Mostly used languages 🏆</th>
     </tr>
     <tr>
