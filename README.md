@@ -11,7 +11,7 @@
 
 #
 
-<div align="right">
+<div>
   <img align="left" width="30%" src="https://i1.sndcdn.com/artworks-000454973544-3kk23u-t500x500.jpg"/>
   <table width="60%">
     <tr>
