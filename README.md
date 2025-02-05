@@ -13,19 +13,19 @@
 
 <div align="right">
   <img align="left" width="30%" src="https://i1.sndcdn.com/artworks-000454973544-3kk23u-t500x500.jpg"/>
-  <table width="60%">
+  <table>
     <tr>
-      <th align="center" width="30%">My main skills 😎</th>
-      <th width="30%">Mostly used languages 🏆</th>
+      <th align="center" width="10%">My main skills 😎</th>
+      <th width="10%">Mostly used languages 🏆</th>
     </tr>
     <tr>
-      <td align="center" width="30%">
-        <img src="https://skillicons.dev/icons?i=js,react,vue,laravel"/></br>
-        <img src="https://skillicons.dev/icons?i=figma,tailwind,sass"/></br>
-        <img src="https://skillicons.dev/icons?i=mysql,graphql,mongodb,firebase"/></br>
-        <img src="https://skillicons.dev/icons?i=git,nodejs,express"/></br>
+      <td align="center" width="10%">
+        <img max-width="90%" src="https://skillicons.dev/icons?i=js,react,vue,laravel"/></br>
+        <img max-width="90%" src="https://skillicons.dev/icons?i=figma,tailwind,sass"/></br>
+        <img max-width="90%" src="https://skillicons.dev/icons?i=mysql,graphql,mongodb,firebase"/></br>
+        <img max-width="90%" src="https://skillicons.dev/icons?i=git,nodejs,express"/></br>
       </td>
-      <td width="30%">
+      <td width="10%">
         <a href='https://github.com/ramonpdx03'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonpdx03&langs_count=6&theme=transparent&hide_title=true&hide_border=false"/></a>
       </td>
     </tr>
