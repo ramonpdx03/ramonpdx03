@@ -15,17 +15,17 @@
   <img align="left" width="250px" src="https://i1.sndcdn.com/artworks-000454973544-3kk23u-t500x500.jpg"/>
   <table>
     <tr>
-      <th align="center" width="10%">My main skills 😎</th>
-      <th width="10%">Mostly used languages 🏆</th>
+      <th align="center">My main skills 😎</th>
+      <th>Mostly used languages 🏆</th>
     </tr>
     <tr>
-      <td align="center" width="10%">
+      <td align="center">
         <img max-width="90%" src="https://skillicons.dev/icons?i=js,react,vue,laravel"/></br>
         <img max-width="90%" src="https://skillicons.dev/icons?i=figma,tailwind,sass"/></br>
         <img max-width="90%" src="https://skillicons.dev/icons?i=mysql,graphql,mongodb,firebase"/></br>
         <img max-width="90%" src="https://skillicons.dev/icons?i=git,nodejs,express"/></br>
       </td>
-      <td width="10%">
+      <td>
         <a href='https://github.com/ramonpdx03'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonpdx03&langs_count=6&theme=transparent&hide_title=true&hide_border=false"/></a>
       </td>
     </tr>
