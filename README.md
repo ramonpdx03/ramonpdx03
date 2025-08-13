@@ -20,9 +20,9 @@
     </tr>
     <tr>
       <td align="center">
-        <img max-width="90%" src="https://skillicons.dev/icons?i=js,react,vue,laravel"/></br>
+        <img max-width="90%" src="https://skillicons.dev/icons?i=js,react,laravel"/></br>
         <img max-width="90%" src="https://skillicons.dev/icons?i=figma,tailwind,sass"/></br>
-        <img max-width="90%" src="https://skillicons.dev/icons?i=mysql,graphql,mongodb,firebase"/></br>
+        <img max-width="90%" src="https://skillicons.dev/icons?i=mysql,graphql,mongodb"/></br>
         <img max-width="90%" src="https://skillicons.dev/icons?i=git,nodejs,express"/></br>
       </td>
       <td>
