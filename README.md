@@ -3,8 +3,8 @@
   <img align="right" height="180px" src="https://i.imgur.com/DV84yp3.png"/>
   <h3>Let me introduce myself 😁</h3>
   ✦ My name is <b>Ramon</b></br>
-  ✦ <b>22</b>yo - <b>Brazil, SC</b></br>
-  ✦ Working as a <b>Fullstack Web Developer</b></br>
+  ✦ <b>23</b>yo - <b>Brazil, SC</b></br>
+  ✦ Software Engineer</br>
   ✦ Always working on some <b>cool projects</b> with friends!!</br>
   ✧ Right now I don't have a portfolio, but I'm working on it!!</br>
 </div></br>
